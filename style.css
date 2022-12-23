@@ -18,6 +18,12 @@ body {
 
 }
 
+.imagen{
+	position: absolute;
+    bottom: 90px;
+	height: 150px;
+}
+
 .card {
 	background: linear-gradient(135deg,
 			rgba(255, 255, 255, 0.1),
